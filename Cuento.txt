@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-Este es el cuento de blanca nieves.
-=======
 Cuento de Blancanieves
 
 Habia una vez una princesa muy hermosa. Vivia con su madrastra malvada, que la hacia trabajar todos los dias
 como si fuera una lavandera. Pobrecilla.
->>>>>>> a16d9bc5c1c43cf6a239e15ed81e4518c8eca851
+
